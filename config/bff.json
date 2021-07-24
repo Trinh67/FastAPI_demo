@@ -1,0 +1,64 @@
+{
+    "data": {
+        "banks": [
+            {
+                "bankCode": "VICO",
+                "bankName": "Vietcombank"
+            },            
+            {
+                "bankCode": "BIDV",
+                "bankName": "BIDV"
+            },            
+            {
+                "bankCode": "AGRI",
+                "bankName": "Agribank"
+            },
+            {
+                "bankCode": "TECH",
+                "bankName": "TECHCOMBANK"
+            },
+            {
+                "bankCode": "MBBA",
+                "bankName": "MB Bank"
+            },
+            {
+                "bankCode": "VITI",
+                "bankName": "VietinBank"
+            }
+        ],
+        "provinces": [
+            {
+                "provinceCode": "HN",
+                "provinceName": "Hà Nội"
+            },            
+            {
+                "provinceCode": "HCM",
+                "provinceName": "Hồ Chí Minh"
+            },            
+            {
+                "provinceCode": "TH",
+                "provinceName": "Thanh Hóa"
+            },
+            {
+                "provinceCode": "DN",
+                "provinceName": "Đà Nẵng"
+            },
+            {
+                "provinceCode": "BG",
+                "provinceName": "Bắc Giang"
+            },
+            {
+                "provinceCode": "ND",
+                "provinceName": "Nam Định"
+            },
+            {
+                "provinceCode": "TB",
+                "provinceName": "Thái Bình"
+            },
+            {
+                "provinceCode": "HNA",
+                "provinceName": "Hà Nam"
+            }
+        ]
+    }
+}
